@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738440352874",
+    "project_id": "groupmeet-a53d5",
+    "storage_bucket": "groupmeet-a53d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738440352874:android:a42630fd455018485f2613",
+        "android_client_info": {
+          "package_name": "com.example.group_meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738440352874-j7vphun20rdctdkuo8i3gsf1c5va1h20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9odbQyccvQymiqg1GYGlHb8RTB4zJI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738440352874-j7vphun20rdctdkuo8i3gsf1c5va1h20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+In This Project we are building an Android App For Video Calling Purpose. The Application Will have many function Specification i.e.:-
+
+1)Creation Of Account
+2)Login
+3)UnLimited Private Rooms for users
+4)Invite Friends
+5)Mute Audio
+6)Disable Video
+7)Front / Back Camera Support
+8)Record Video Calls
+9)YouTube Live Streaming
+10)Record Video Calls
+11)Enable Low Bandwidth Mode
+12)Meeting Password
+13)The Application Consists of all types of login methods possible like login with OTP and Login with Gmail using Google's firebase Authentication services. The Application also stores some data in RealTime Database og Google firebase Realtime dtabase services. The Application is Build on Android Studio using Core Java.
+
+The Project is assigned by Neeraj Khanna Sir for our Mini Project assessment.
